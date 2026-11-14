@@ -1,2 +1,1 @@
-Le modèle Random Forest explique 84 % de la variabilité des émissions de CO₂ à partir des caractéristiques du bâtiment et de l'Energy Star Score, avec une erreur moyenne de l’ordre de 57 % en valeur relative.
-C’est actuellement le modèle le plus fiable et le plus précis parmi tous ceux testés : il permet de prédire assez finement les émissions de CO₂ et donc de cibler en priorité les bâtiments les plus polluants même quand on n’a pas encore les factures énergétiques réelles.
+Random Forest meilleur dans les trois essais ; R² de 0,84 pour le CO₂ avec l'ENERGY STAR Score,contre 0,75 sans
